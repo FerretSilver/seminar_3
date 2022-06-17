@@ -44,6 +44,11 @@ https://www.youtube.com/watch?v=rdGogslzqVg
 
 ## Работа с таблицами
 
+| Column | Column | Column |
+| :----- | :----: | -----: |
+| Left   | Center |  Right |
+| align  | align  |  align |
+
 ## Цитаты
 
 ## Заключение
