@@ -17,6 +17,9 @@
 
 ## Ссылки
 
+Ссылка на видеоролик
+https://www.youtube.com/watch?v=rdGogslzqVg
+
 ## Работа с таблицами
 
 ## Цитаты
